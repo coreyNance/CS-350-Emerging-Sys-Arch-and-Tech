@@ -1,6 +1,8 @@
 # CS-350-Emerging-Sys-Arch-and-Tech
 
+## Final Thermostat Project video
 
+https://youtu.be/_5tUxlk_UHw
 
 ## -    Summarize the project and what problem it was solving.
 
